@@ -15,6 +15,7 @@ Resources: [DataCamp](https://datacamp.com) , [SimpliLearn](https://simplilearn.
 * [Pythonista Data Science Toolset](https://github.com/dataqueenpend/DS_From_Zero_To_Hero/blob/gh-pages/DS__Python_toolset.ipynb)
 * [Importing Data in Python](https://github.com/dataqueenpend/DS_From_Zero_To_Hero/blob/gh-pages/Importing_data_in_Python_.ipynb)
 * [Cleaning Data in Python](https://github.com/dataqueenpend/DS_From_Zero_To_Hero/blob/gh-pages/Data_cleaning_in_Python.ipynb)
+* [Dates and times in Python](https://github.com/dataqueenpend/DS_From_Zero_To_Hero/blob/gh-pages/Dates_and_Times_in_Python.ipynb) 
 
 ### Python's libraries
 * [NumPy - Introduction to numerical computing in Python](https://github.com/dataqueenpend/DS_From_Zero_To_Hero/blob/gh-pages/Numpy.ipynb)
