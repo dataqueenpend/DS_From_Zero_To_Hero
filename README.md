@@ -11,6 +11,9 @@ Resources: [DataCamp](https://datacamp.com) , [SimpliLearn](https://simplilearn.
 
 ## Table of contents
 
+### Shortcuts
+* [Most commonly used functions/methods/lines](https://github.com/dataqueenpend/DS_From_Zero_To_Hero/blob/gh-pages/Most_common_functions_methods_commands.ipynb)
+
 ### Python
 * [Pythonista Data Science Toolset](https://github.com/dataqueenpend/DS_From_Zero_To_Hero/blob/gh-pages/DS__Python_toolset.ipynb)
 * [Importing Data in Python](https://github.com/dataqueenpend/DS_From_Zero_To_Hero/blob/gh-pages/Importing_data_in_Python_.ipynb)
@@ -18,7 +21,8 @@ Resources: [DataCamp](https://datacamp.com) , [SimpliLearn](https://simplilearn.
 * [Functions in Python](https://github.com/dataqueenpend/DS_From_Zero_To_Hero/blob/gh-pages/Functions_in_Python.ipynb)
 * [Objects and classes in Python](https://github.com/dataqueenpend/DS_From_Zero_To_Hero/blob/gh-pages/Objects_and_classes_in_Python.ipynb) 
 * [Dates and times in Python](https://github.com/dataqueenpend/DS_From_Zero_To_Hero/blob/gh-pages/Dates_and_Times_in_Python.ipynb)
-* [Exploratory Data Analysis in Python](https://github.com/dataqueenpend/DS_From_Zero_To_Hero/blob/gh-pages/Exploratory_Data_Analysis_in_Python.ipynb) 
+* [Exploratory Data Analysis in Python](https://github.com/dataqueenpend/DS_From_Zero_To_Hero/blob/gh-pages/Exploratory_Data_Analysis_in_Python.ipynb)
+* [Statistics in Python](https://github.com/dataqueenpend/DS_From_Zero_To_Hero/blob/gh-pages/Statistical_Thinking_in_Python.ipynb)  
 
 ### Python's libraries
 * [NumPy - Introduction to numerical computing in Python](https://github.com/dataqueenpend/DS_From_Zero_To_Hero/blob/gh-pages/Numpy.ipynb)
