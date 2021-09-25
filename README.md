@@ -30,6 +30,7 @@ Resources: [DataCamp](https://datacamp.com) , [SimpliLearn](https://simplilearn.
 ### Machine Learning with Python
 * [Supervised learning with scikit-learn](https://github.com/dataqueenpend/DS_From_Zero_To_Hero/blob/gh-pages/Supervised_Learning_with_scikit_learn.ipynb)
 * [Unsupervised learning with scikit-learn](https://github.com/dataqueenpend/DS_From_Zero_To_Hero/blob/gh-pages/Unsupervised_learning_in_Python.ipynb)
+* [Machine Learning with Tree-Based Models in Python](https://github.com/dataqueenpend/DS_From_Zero_To_Hero/blob/gh-pages/Machine_Learning_with_Tree_Based_Models_in_Python.ipynb)
 
 ### Python's libraries
 * [NumPy - Introduction to numerical computing in Python](https://github.com/dataqueenpend/DS_From_Zero_To_Hero/blob/gh-pages/Numpy.ipynb)
