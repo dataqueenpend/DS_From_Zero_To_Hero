@@ -39,4 +39,7 @@ Resources: [DataCamp](https://datacamp.com) , [SimpliLearn](https://simplilearn.
 ### Data Visualization
 * [Seaborn](https://github.com/dataqueenpend/DS_From_Zero_To_Hero/blob/gh-pages/Seaborn.ipynb)
 
+### SQL
+* [SQL Fundamentals & Joining Data](https://github.com/dataqueenpend/DS_From_Zero_To_Hero/blob/gh-pages/SQL_Fundamentals.ipynb)
+
 
